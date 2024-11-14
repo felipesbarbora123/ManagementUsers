@@ -1,0 +1,749 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManagementUsers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ManagementUsers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\js\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\js\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\.eslintrc",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\.npmrc",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\.npmrc"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\README.md",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\README_date.md",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\README_date.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\README_numeric.md",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\README_numeric.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\README_other.md",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\README_other.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\bundle.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\bundle.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\bundle.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\composer.json",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\dist\\bindings\\inputmask.binding.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\dist\\bindings\\inputmask.binding.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\dist\\inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\dist\\inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\dist\\inputmask.min.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\dist\\inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\dist\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\dist\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\dist\\jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\dist\\jquery.inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\index.html",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\index.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\bindings\\inputmask.binding.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\bindings\\inputmask.binding.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\defaults.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\defaults.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\definitions.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\definitions.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\data.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\events.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\events.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\extend.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\extend.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.jqlite.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.jqlite.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\dependencyLibs\\inputmask.dependencyLib.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\environment.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\environment.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\escapeRegex.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\escapeRegex.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\eventhandlers.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\eventhandlers.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\eventruler.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\eventruler.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\extensions\\inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\getPrototypeOf.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\getPrototypeOf.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\global\\window.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\global\\window.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\inputHandling.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\inputHandling.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\inputmaskElement.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\inputmaskElement.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\keycode.json",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\keycode.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\mask-lexer.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\mask-lexer.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\mask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\mask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\positioning.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\positioning.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\validation-tests.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\validation-tests.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\lib\\validation.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\lib\\validation.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\micromasks\\mm.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\micromasks\\mm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\nuspecs\\Inputmask.nuspec",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\nuspecs\\Inputmask.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\nuspecs\\Readme.txt",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\nuspecs\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\nuspecs\\jquery.inputmask.nuspec",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\nuspecs\\jquery.inputmask.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\package.json",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\index.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\prototypeExtensions.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\prototypeExtensions.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\qunit.html",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\qunit.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\simulator.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\simulator.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_alternations.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_alternations.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_attributes.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_base.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_base.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_date.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_date.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_dynamic.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_dynamic.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_escape.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_escape.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_formatvalidate.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_formatvalidate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_initialvalue.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_initialvalue.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_inputeventonly.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_inputeventonly.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_ip.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_ip.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_jitmasking.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_jitmasking.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_jquery_inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_jquery_inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_keepStatic.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_keepStatic.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_multi.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_multi.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_numeric.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_numeric.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_numericinput.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_numericinput.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_option.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_option.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_optional.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_optional.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_paste.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_paste.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_regex.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_regex.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\qunit\\tests_setvalue.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\qunit\\tests_setvalue.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\Inputmask-5.0.5\\webpack.config.js",
+      "PackagePath": "staticwebassets\\lib\\Inputmask-5.0.5\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.ruby-version",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.ruby-version"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\Dockerfile",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\component.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\composer.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\deploy.rb",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\deploy.rb"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\docker-compose.yml",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\docker-compose.yml"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.css",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\ManagementUsers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ManagementUsers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ManagementUsers.props",
+      "PackagePath": "build\\ManagementUsers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ManagementUsers.props",
+      "PackagePath": "buildMultiTargeting\\ManagementUsers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ManagementUsers.props",
+      "PackagePath": "buildTransitive\\ManagementUsers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

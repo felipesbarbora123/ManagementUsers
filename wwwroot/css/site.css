@@ -1,0 +1,66 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.footer {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #ffffff !important;
+}
+
+.bg-white {
+    --bs-bg-opacity: 1;
+    background-color: #0d6efd !important;
+    border-color: #0d6efd;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255 255 255 / 90%) !important;
+}
+
+.navbar {
+    
+    color: white;
+}
+
+.text-dark {
+    --bs-text-opacity: 1;
+    color: rgb(255 255 255) !important;
+}
+
+.text-dark:hover {
+    --bs-text-opacity: 1;
+    color: rgb(80 118 199) !important;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.control-label{
+    font-weight: bold;
+}
